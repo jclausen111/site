@@ -1,11 +1,6 @@
 <html>
 
 <body>
-<div id="menu">
-<ul>
-<li><a href="index.html"><strong style="font-size: 120%;">John Clausen</strong></a></li>
-</ul>
-</div>
 
 <img src="photo_JUL2022.jpg">      
   
