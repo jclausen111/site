@@ -17,6 +17,8 @@ Linear Mixed Models</br>
 Generalized Linear Mixed Models</br>
 Categorical Data Analysis</br>
 Experimental Design</br>
+Causal Inference</br>
+Bayesian Inference</br>
 </p>
 
 <p>
