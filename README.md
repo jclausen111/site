@@ -1,18 +1,9 @@
-# site
 <html>
-<head>
-<link rel="stylesheet" href="mystyle.css" type="text/css">
-<title>John Clausen Home Page</title>
-</head>
+
 <body>
 <div id="menu">
 <ul>
 <li><a href="index.html"><strong style="font-size: 120%;">John Clausen</strong></a></li>
-#<li><a href="Documents">CV</a></li>
-#<li><a href="https://www.iastate.edu/">Iowa State</a></li>
-#<li><a href="http://stat.iastate.edu/">Department of Statistics</a></li>
-#<li><a href="http://www.bioinformatics.iastate.edu">L. H. Baker Center</a></li>
-#<li><a href="http://jclausen.github.io/site/files.html">Files</a></li>
 </ul>
 </div>
 
@@ -26,24 +17,25 @@ John Clausen is an applied statistician with experience in medical device indust
 </p>
 
 <p>
-Areas of Interest:
-Linear Mixed Models
-Categorical Data Analysis
-Experimental Design
+Areas of Interest:</br>
+Linear Mixed Models</br>
+Generalized Linear Mixed Models</br>
+Categorical Data Analysis</br>
+Experimental Design</br>
 </p>
 
 <p>
-Statistical Software:
-SAS
-R
-JMP
+Statistical Software:</br>
+SAS</br>
+R</br>
+JMP</br>
 </p>
 
 <p>
-Education:
-Kansas State University: Passed Statistics Ph.D. Qualifying Exams, 2017
-University of Nebraska-Lincoln: Master of Science in Statistics, 2011
-University of Nebraska at Omaha: Bachelor of Science in Mathematics, 2008
+Education:</br>
+Kansas State University: Passed Statistics Ph.D. Qualifying Exams, 2017</br>
+University of Nebraska-Lincoln: Master of Science, Statistics, 2011</br>
+University of Nebraska at Omaha: Bachelor of Science, Mathematics, 2008</br>
 </p>
 
 
@@ -51,11 +43,11 @@ University of Nebraska at Omaha: Bachelor of Science in Mathematics, 2008
 Contact
 </h2>
 
-      <p>
-      Grimes, Iowa<br>
-      Email: <a href="mailto:clausen.john.09@gmail.com">clausen.john.09@gmail.com</a>
-      </p>  
-
-
+<p>
+Grimes, Iowa</br>
+clausen.john.09@gmail.com</br>
+</p>  
 
 </body>
+
+</html>
